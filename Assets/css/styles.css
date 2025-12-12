@@ -90,6 +90,10 @@
 
 
 /* ----------------------- Sección Info------------------- */
+#Info {
+    background-color:tomato !important;
+}
+
 .CARD1{
     min-height: 12rem!important;
 }
